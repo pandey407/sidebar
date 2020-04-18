@@ -1,6 +1,6 @@
 # sidebar_drawer
 
-A new Flutter project.
+A custom sidebar with dummy navigation to screens made using flutter and bloc navigation implementations.
 
 ## Getting Started
 
